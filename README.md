@@ -1,2 +1,2 @@
 # Login_System
- Login system in php using xampp sqli database. After matching the login details like email and password . If everything is correct,it will send to the welcome page otherwise it will show login failed
+Login system made using PHP and Xampp SQLi database. The user will login using their email id and password. After matching the login details like email id and password. If email id and password are matched with the user data placed in the database then login will be successful and it will redirect to the welcome page otherwise it will show login failed.
